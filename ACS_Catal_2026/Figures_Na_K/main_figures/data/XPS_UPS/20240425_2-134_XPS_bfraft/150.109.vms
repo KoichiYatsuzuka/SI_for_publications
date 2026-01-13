@@ -1,0 +1,583 @@
+VAMAS Surface Chemical Analysis Standard Data Transfer Format 1988 May 4
+PHI
+PHI VersaProbe II
+Not Specified
+FILE:150.109.spe;BATCH:Yatsuzuka;DESC:Heo 25mm;
+177
+SOFH
+Platform: PC
+Technique: XPS
+TechniqueEx: XPS
+FileType:  SPECTRUM
+FileDesc: Heo 25mm
+SoftwareVersion: SS 3.2.0.52
+InstrumentModel: PHI VersaProbe II
+AcqFilename: C:\Datafiles\UP\UPS_XPS_data\Yatsuzuka\150.109.spe
+FileDate: 2024 4 25
+AcqFileDate: 2024 4 25
+Institution: PHI
+ExperimentID: Yatsuzuka
+EnergyReference: none 0.0
+AnalyserWorkFcn: 4.223 eV
+AnalyserRetardGain: 1.000481
+RegisterImage: no
+RegImageInterval: 1
+RegImageMode: 1
+RegImageLast: 1
+PlatenID: Heo 25mm
+PhotoFilename: 150.101.pho
+SXIFilename:
+SourceAnalyserAngle: 45.0 d
+AnalyserSolidAngle: 0.38 sr
+IntensityRecal: no
+IntensityCalCoeff: 133.802 0.298
+EnergyRecal: no
+ScanDeflectionSpan: 40 70
+ScanDeflectionOffset: 0 0
+SCAMultiplierVoltage: 1800.0 V
+NarrowAcceptanceAngle: no
+PeakToNoiseRatioState: no
+DelayBeforeAcquire: 5 seconds
+C60IonGun: None
+BiasBoxMode: 0
+TFCParameters: 0, 1, 2, 93.73, 7.481, 1, 1
+SemFieldOfView: 0.0000000
+ImageSizeXY: 0.0000 0.0000
+IonGunMode: Standby
+SputterIon: Ar+
+SputterCurrent: 0.000 uA
+SputterRate: 0.000 A/min
+SputterEnergy: 0.100 kV
+FloatVolt: 0.0 V
+FloatEnable: no
+GridVolt: 120.0
+CondensorVolt: 71.00
+ObjectiveVolt: 68.00
+BendVolt: 1.50
+SputterRaster: 0.00 0.00 mm
+SputterRasterOffset: 0.000 0.000 mm
+TargetSputterTime: 0.0 min
+SputterEmission: 0.00 mA
+DeflectionBias: 0.0 V
+IonGunGasPressure: 0.000 mPa
+NeutIon: Ar+
+NeutCurrent: 0.000 uA
+NeutRate: 0.000 A/min
+NeutEnergy: 0.110 kV
+NeutFloatVolt: -100.0 V
+NeutFloatEnable: yes
+NeutGridVolt: 120.0
+NeutCondensorVolt: 68.42
+NeutObjectiveVolt: 101.20
+NeutBendVolt: 1.57
+NeutRaster: 0.00 0.00 mm
+NeutRasterOffset: 0.520 0.600 mm
+NeutTargetTimedOnTime: 0.0 min
+NeutEmission: 7.00 mA
+NeutDeflectionBias: 70.0 V
+NeutIonGunGasPressure: 0.000 mPa
+XpsScanMode: scanned
+AnalyserMode: FAT
+SurvNumCycles: 1
+SurvTimePerStep: 100.000000
+NoSpectralRegFull: 2
+SpectralRegDefFull: 1 0 C1s 6 81 -0.2500 298.0000 278.0000 297.0000 279.0000 0.000000 58.70 AREA
+SpectralRegDef2Full: 1 20.0 30 0 2 1
+SpectralRegBackgroundFull: 1 0.0 288.0 0.0
+SpectralRegHeroFull: 1 288.0 0.0 0.0 0.00
+SpectralRegIRFull: 1 0 0.000 0.000 0.0
+SpectralRegDefFull: 2 1 Mn2p 25 161 -0.2500 672.0000 632.0000 671.0000 633.0000 0.000000 58.70 AREA
+SpectralRegDef2Full: 2 40.0 1 0 2 1
+SpectralRegBackgroundFull: 2 0.0 652.0 0.0
+SpectralRegHeroFull: 2 652.0 0.0 0.0 0.00
+SpectralRegIRFull: 2 0 0.000 0.000 0.0
+NoSpectralReg: 1
+SpectralRegDef: 1 1 Mn2p 25 161 -0.2500 672.0000 632.0000 671.0000 633.0000 0.200000 58.70 AREA
+SpectralRegDef2: 1 40.0 1 0 2 1
+SpectralRegBackground: 1 0.0 652.0 0.0
+SpectralRegHero: 1 652.0 0.0 0.0 0.00
+SpectralRegIR: 1 1 0.000 0.000 0.0
+NoSpatialArea: 1
+SpatialAreaDef: 1 1 1 (6217.9 3247.2 15198.0 45.0 -0.1)
+SpatialAreaDesc: 1
+SpatialHRPhotoCor: 1 (0.0 0.0)
+XraySource: Al 1486.6 mono
+XrayAnodePosition: 5
+XrayPower: 24.29 W
+XrayBeamDiameter: 100.0 um
+XRayBeamVoltage: 15000.0 V
+XRayCondenserLensVoltage: 8500.0 V
+XRayObjectiveCoilCurrent: 0.710 A
+XRayBlankingVoltage: 210.0 V
+XRayFilamentCurrent: 1.449 A
+XRayStigmator: 0.0 0.0
+XRayOffsetInUm: -10 -10
+XRayMagFactor: 0.360 0.359
+XRayDelayFactor: 2000 1000
+XRayRotationInDeg: -22.00 V
+XRayHighPower: no
+XRayEmissionControl: yes
+XRayEmissionCurrent: 3.000 mA
+XRayStepDelayReadBeam: 5
+XRayStepsPerDiameter: 1.0
+XRayInterlaceInterval: 1
+XRayMaxFilamentCurrent: 1.500 A
+XRaySetting: 100u25W15KV
+EgunNeutMode: Off
+NeutralizerCurrent: 20.0 uA
+NeutralizerEnergy: 1.00 V
+EgunNeutExtractor: 30.0 V
+EgunNeutXSteering: 5.0
+EgunNeutYSteering: -10.0
+EgunNeutFilament: 0.00 A
+EgunNeutPulseLength: 10.0 msec
+EgunNeutPulseFrequency: 2
+SxiPersistence: 1
+SxiSecPerDisplay: 1.0
+SxiAutoContrast: yes
+SxiAutoContrastLow: 0.30
+SxiAutoContrastHigh: 0.30
+SxiBindingEnergy: 410.0 eV
+SxiPassEnergy: 188 eV
+SxiLens2: -804 V
+SxiLens3: -761 V
+SxiLensBias: 0 V
+SxiShutterBias: yes
+SxiShutterBiasVoltage: 350.0 V
+SxiDisplayMode: 2
+Detector Acq Time: 50.0 (min)
+Number Of Channels: 16
+Channel Info: 1 1 1.530
+Channel Info: 2 1 1.303
+Channel Info: 3 1 1.293
+Channel Info: 4 1 1.246
+Channel Info: 5 1 1.172
+Channel Info: 6 1 1.094
+Channel Info: 7 1 1.032
+Channel Info: 8 1 1.003
+Channel Info: 9 1 1.020
+Channel Info: 10 1 0.931
+Channel Info: 11 1 0.865
+Channel Info: 12 1 0.834
+Channel Info: 13 1 0.755
+Channel Info: 14 1 0.729
+Channel Info: 15 1 0.700
+Channel Info: 16 1 1.362
+StagePosition: 6.1559 -3.5197 15.1980 45.0062 -0.0500
+StageCurrentRotationSpeed: 1.0000
+DefectPosID: 1
+DefectPosComment:
+DefectPosU: 6.2170
+DefectPosV: -3.2482
+DefectPosX: 6.1559
+DefectPosY: -3.5197
+DefectPosZ: 15.1980
+DefectPosTilt: 45.0094
+DefectPosRotation: -0.0500
+DefectPosAligment: None
+DefectPosReferenceImage: 150.101.pho
+Deconvolution: no
+DeconvolutionPassEnergy: 2.95 eV
+AutoIonNeut: no
+Presputter: no
+EOFH
+NORM
+REGULAR
+0
+0
+0
+0
+0
+0
+1
+Mn 2p 1
+150.109.spe:Heo 25mm
+2024
+4
+25
+0
+0
+0
+0
+10
+Casa Info Follows
+0
+0
+0
+0
+Heo 25mm
+( 0.061559 m , -0.035197 m , 0.15198 m ) Angle: 45.0062 degrees , -0.05 degrees
+Heo 25mm
+1
+1
+XPS
+Al
+1486.6
+24.29
+100
+100
+1e+037
+1e+037
+FAT
+58.7
+1e+037
+4.223
+1e+037
+1e+037
+1e+037
+1e+037
+1e+037
+Mn
+2p
+-1
+Kinetic Energy
+eV
+814.6
+0.25
+2
+Intensity
+d
+Transmission
+d
+pulse counting
+0.2
+1
+1e+037
+1e+037
+1e+037
+1e+037
+2
+ESCAPE DEPTH TYPE
+d
+0
+PHI_AtomicNumber
+d
+25
+322
+0
+1
+0
+1
+1785
+58.5131
+1687
+58.513
+1728
+58.5129
+1691
+58.5128
+1743
+58.5127
+1728
+58.5126
+1816
+58.5125
+1747
+58.5123
+1760
+58.5122
+1703
+58.5121
+1749
+58.512
+1695
+58.5119
+1755
+58.5118
+1674
+58.5117
+1690
+58.5115
+1762
+58.5114
+1809
+58.5113
+1756
+58.5112
+1728
+58.5111
+1762
+58.511
+1777
+58.5109
+1805
+58.5107
+1790
+58.5106
+1808
+58.5105
+1801
+58.5104
+1723
+58.5103
+1855
+58.5102
+1685
+58.51
+1746
+58.5099
+1732
+58.5098
+1766
+58.5097
+1778
+58.5096
+1721
+58.5095
+1739
+58.5094
+1705
+58.5092
+1667
+58.5091
+1713
+58.509
+1653
+58.5089
+1741
+58.5088
+1664
+58.5087
+1749
+58.5086
+1685
+58.5084
+1571
+58.5083
+1643
+58.5082
+1663
+58.5081
+1604
+58.508
+1692
+58.5079
+1553
+58.5077
+1613
+58.5076
+1608
+58.5075
+1574
+58.5074
+1675
+58.5073
+1662
+58.5072
+1679
+58.5071
+1694
+58.5069
+1665
+58.5068
+1661
+58.5067
+1723
+58.5066
+1698
+58.5065
+1758
+58.5064
+1796
+58.5062
+1839
+58.5061
+1766
+58.506
+1866
+58.5059
+2016
+58.5058
+2072
+58.5057
+2071
+58.5055
+2153
+58.5054
+2357
+58.5053
+2330
+58.5052
+2450
+58.5051
+2542
+58.505
+2633
+58.5048
+2682
+58.5047
+2627
+58.5046
+2522
+58.5045
+2399
+58.5044
+2283
+58.5043
+2087
+58.5041
+2032
+58.504
+1904
+58.5039
+1765
+58.5038
+1708
+58.5037
+1606
+58.5036
+1531
+58.5034
+1507
+58.5033
+1423
+58.5032
+1424
+58.5031
+1423
+58.503
+1363
+58.5029
+1378
+58.5027
+1304
+58.5026
+1349
+58.5025
+1395
+58.5024
+1349
+58.5023
+1319
+58.5022
+1336
+58.502
+1349
+58.5019
+1369
+58.5018
+1389
+58.5017
+1393
+58.5016
+1394
+58.5015
+1456
+58.5013
+1405
+58.5012
+1463
+58.5011
+1478
+58.501
+1584
+58.5009
+1562
+58.5008
+1767
+58.5006
+1680
+58.5005
+1855
+58.5004
+1984
+58.5003
+2040
+58.5002
+2198
+58.5
+2384
+58.4999
+2686
+58.4998
+2840
+58.4997
+2958
+58.4996
+3062
+58.4995
+3171
+58.4993
+3283
+58.4992
+3072
+58.4991
+2835
+58.499
+2412
+58.4989
+2085
+58.4988
+1788
+58.4986
+1565
+58.4985
+1401
+58.4984
+1171
+58.4983
+1001
+58.4982
+905
+58.498
+791
+58.4979
+816
+58.4978
+782
+58.4977
+731
+58.4976
+737
+58.4975
+720
+58.4973
+710
+58.4972
+727
+58.4971
+701
+58.497
+693
+58.4969
+721
+58.4967
+724
+58.4966
+691
+58.4965
+740
+58.4964
+725
+58.4963
+704
+58.4961
+695
+58.496
+637
+58.4959
+674
+58.4958
+680
+58.4957
+684
+58.4956
+695
+58.4954
+655
+58.4953
+670
+58.4952
+662
+58.4951
+683
+58.495
+668
+58.4948
+713
+58.4947
+632
+58.4946
+651
+58.4945
+end of experiment
