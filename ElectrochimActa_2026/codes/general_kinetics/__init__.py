@@ -108,24 +108,7 @@ class ElementaryStep_ET:
             else -(applied_potential - self.E0)
         )
     
-    # def rate_anodic(
-    #     self,
-    #     applied_potential: ec.Potential|ec.PotentialArray
-    # ):
-    #     if self.forward_direction == Direction.ANODIC:
-    #         return self._rate(applied_potential, True)
-    #     else:
-    #         return self._rate(applied_potential, False)
-    
-    # def rate_cathodic(
-    #     self,
-    #     applied_potential: ec.Potential|ec.PotentialArray
-    # ):
-    # rate_cathodic: 分岐が逆で、常にアノード側の速度定数を返します(general_kinetics:120-127)。どの図のコードからも呼ばれていません。
-    #     if self.forward_direction == Direction.CATHODIC:
-    #         return self._rate(applied_potential, False)
-    #     else:
-    #         return self._rate(applied_potential, True)
+
 
     def accelaration_fw(
         self,

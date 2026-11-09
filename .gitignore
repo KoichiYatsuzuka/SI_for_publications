@@ -1,1 +1,13 @@
+# Python caches (including numba's .nbi/.nbc compiled caches)
 *.pyc
+__pycache__/
+*.nbi
+*.nbc
+
+# Office lock files created while a document is open
+~$*
+
+# OS-generated files
+Thumbs.db
+desktop.ini
+.DS_Store
